@@ -1,0 +1,4 @@
+Category,Region,Sales,Quantity,Discount,Profit
+Furniture,East,500,5,0.10,80
+Technology,West,700,3,0.00,150
+Office Supplies,South,300,8,0.20,40
